@@ -19,3 +19,6 @@ Privacy: collection and language preferences are stored locally in the visitor's
 
 
 The proposed French names for Doomsayer and Storm Brewer are unofficial translations; their official French names are unconfirmed. French effect descriptions are explanatory translations of the English data, not official game transcriptions.
+
+
+Acquisition audit: all 526 rows of Dragon Quest-Fan’s table (Eldrick, contributions by Enignmeman and Soru) were compared with MetalKid data. Eggs from Monster.EggTypeId and MonsterEggType are combined. Fan-site entries absent from MetalKid are marked unconfirmed; a blank entry is not treated as an exclusion. Recipe, location, season and rank disagreements appear on the affected monster pages. Egg guide: https://www.dragonquest-fan.com/forum/index.php?subjectID=14987 . Past distributions do not guarantee current availability on every platform.

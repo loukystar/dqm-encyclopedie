@@ -26,3 +26,6 @@ Pour signaler une erreur ou un problème de droits, ouvrir une issue dans le dé
 
 
 Les noms « Prophète de malheur » (Doomsayer) et « Faiseur d’orages » (Storm Brewer) sont des traductions proposées ; leurs noms officiels français ne sont pas confirmés. Les descriptions françaises des effets sont des traductions explicatives des données anglaises, et non une transcription officielle du jeu.
+
+
+Contrôle des méthodes d’obtention : comparaison des 526 lignes du tableau Dragon Quest-Fan (Eldrick, contributions Enignmeman et Soru) avec les données MetalKid. Les œufs contenus dans le champ Monster.EggTypeId et dans la table MonsterEggType sont réunis. Les mentions du fan site absentes de MetalKid sont signalées comme à confirmer ; une case vide ne vaut pas exclusion. Les désaccords sur les recettes, lieux, saisons et rangs sont affichés sur les fiches concernées. Guide des œufs : https://www.dragonquest-fan.com/forum/index.php?subjectID=14987 . Les anciennes distributions ne garantissent pas la disponibilité actuelle sur chaque plateforme.
