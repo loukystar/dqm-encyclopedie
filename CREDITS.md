@@ -23,3 +23,6 @@ Cette politique concerne les images et vidéos et ne constitue pas une licence g
 Aucun compte visiteur, outil de mesure d’audience ou serveur de collecte. La langue et les monstres possédés sont enregistrés dans le stockage local du navigateur. Le stockage dépend du domaine et du navigateur ; sa suppression efface la collection. L’hébergeur peut traiter ses propres journaux techniques.
 
 Pour signaler une erreur ou un problème de droits, ouvrir une issue dans le dépôt du projet.
+
+
+Les noms « Prophète de malheur » (Doomsayer) et « Faiseur d’orages » (Storm Brewer) sont des traductions proposées ; leurs noms officiels français ne sont pas confirmés. Les descriptions françaises des effets sont des traductions explicatives des données anglaises, et non une transcription officielle du jeu.
